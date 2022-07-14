@@ -4,8 +4,8 @@
     "keywords": [
         "Renamer Bot",
         "Mongo DB"
-    ],
-    "repository": "https://github.com/CrazeBots/rename-bot",
+    ],https://github.com/CrazeBots/rename-bot
+    "repository": 
     "success_url": "https://telegram.dog/CrazeBots",
     "env": {
         "APP_ID": {
